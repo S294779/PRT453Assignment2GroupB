@@ -1,0 +1,2 @@
+C:\Users\GOD\Documents\PRT453Assignment2GroupB\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+C:\Users\GOD\Documents\PRT453Assignment2GroupB\MvcMusicStore\obj\Debug\MvcMusicStore.csproj.CoreCompileInputs.cache
