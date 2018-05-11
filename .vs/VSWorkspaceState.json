@@ -3,9 +3,15 @@
     "",
     "\\OnlineShopping",
     "\\OnlineShopping\\OnlineShopping",
+    "\\OnlineShopping\\OnlineShopping\\App_Data",
     "\\OnlineShopping\\OnlineShopping\\App_Start",
-  "SelectedNode": "\\OnlineShopping\\OnlineShopping\\Photo",
+    "\\OnlineShopping\\OnlineShopping\\Controllers",
+    "\\OnlineShopping\\OnlineShopping\\DAL",
+    "\\OnlineShopping\\OnlineShopping\\Filters",
+    "\\OnlineShopping\\OnlineShopping\\Models",
+    "\\OnlineShopping\\OnlineShopping\\Repository",
+    "\\OnlineShopping\\OnlineShopping\\Template"
   ],
-
+  "SelectedNode": "\\OnlineShopping\\OnlineShopping\\Template\\factory.cs",
   "PreviewInSolutionExplorer": false
 }
